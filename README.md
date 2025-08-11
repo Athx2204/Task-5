@@ -1,6 +1,6 @@
 # Task-5
 
-**Objective:** Capture and Analyze Network Traffic Using Wireshark..
+**Objective:** Capture and Analyze Network Traffic Using Wireshark.
 
 ---
 
