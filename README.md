@@ -14,8 +14,8 @@
 ## Sample Packet Details
 | Protocol | Source IP     | Destination IP | Source Port | Destination Port | Length | Info |
 |----------|--------------|----------------|-------------|------------------|--------|------|
-| HTTP/XML | 192.168.0.103 | 192.168.0.1    | *XXXX*      | 80   | 350  | POST /ifc HTTP/1.1 |
-| DNS      | 192.168.0.103 | 192.168.0.1    | *YYYY*      | 53   | 87   | Query A inference.location.live.net |
+| HTTP/XML | 192.168.0.103 | 192.168.0.1    | 49832      | 80   | 350  | POST /ifc HTTP/1.1 |
+| DNS      | 192.168.0.103 | 192.168.0.1    | 55123      | 53   | 87   | Query A inference.location.live.net |
 | UDP      | 192.168.0.103 | 188.187.146.78 | 10075       | 62780| 590  | Len=548 |
 
 ---
