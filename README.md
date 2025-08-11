@@ -20,11 +20,6 @@
 
 ---
 
-## Screenshots
-- **Full Capture:** `full_capture.png`
-
----
-
 ## Outcome
 - Learned how to capture, filter, and analyze packets in Wireshark.
 - Understood how different protocols function in real network communication.
