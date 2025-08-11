@@ -21,7 +21,7 @@
 ---
 
 ## Screenshots
-- **Full Capture:** `screenshots/full_capture.png`
+- **Full Capture:** `full_capture.png`
 
 ---
 
